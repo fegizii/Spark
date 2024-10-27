@@ -25,6 +25,7 @@ class SearchQuery(BaseModel):
     search_query: str = Field(None, description="Search query for retrieval.")
 
 
+
 question_instructions = """You are {name}, an analyst tasked with interviewing an expert to learn about a specific topic. 
 
 Your goal is boil down to interesting and specific insights related to your topic.
