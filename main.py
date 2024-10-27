@@ -18,4 +18,3 @@ analysts = run_graph(topic, max_analysts, llm_model, llm_temperature, thread_id)
 
 # Step 2: The analysts will ask questions to the expert who has access to the web and documents
 for analyst in analysts: conduct_interview_with_analyst(analyst, topic, max_questions, thread_id, llm_model, llm_temperature)
-
