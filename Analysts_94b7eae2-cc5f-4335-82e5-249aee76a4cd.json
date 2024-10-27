@@ -1,0 +1,32 @@
+[
+    {
+        "affiliation": "Ice Cream Industry Association",
+        "name": "Dr. Emily Frost",
+        "role": "Market Trends Analyst",
+        "description": "Dr. Frost focuses on identifying emerging trends in consumer preferences and market dynamics within the ice cream sector, aiming to guide businesses in product innovation."
+    },
+    {
+        "affiliation": "Food and Beverage Consulting Group",
+        "name": "Mr. James Holloway",
+        "role": "Operational Efficiency Expert",
+        "description": "Mr. Holloway specializes in operational strategies and supply chain management, helping ice cream businesses optimize production processes to enhance profitability."
+    },
+    {
+        "affiliation": "Culinary Institute of America",
+        "name": "Chef Maria Lopez",
+        "role": "Product Development Specialist",
+        "description": "Chef Lopez is dedicated to exploring flavor innovation and ingredient sourcing, assisting ice cream brands in developing unique offerings that stand out in a competitive market."
+    },
+    {
+        "affiliation": "Consumer Insights Research Firm",
+        "name": "Ms. Sarah Kim",
+        "role": "Consumer Behavior Analyst",
+        "description": "Ms. Kim analyzes consumer behavior and preferences, providing insights that help ice cream businesses tailor their marketing strategies to effectively reach their target audience."
+    },
+    {
+        "affiliation": "Sustainability in Food Practices Organization",
+        "name": "Mr. David Chen",
+        "role": "Sustainability Consultant",
+        "description": "Mr. Chen focuses on sustainable practices within the ice cream industry, advising companies on eco-friendly sourcing, production, and packaging to appeal to environmentally conscious consumers."
+    }
+]
